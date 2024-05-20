@@ -6,16 +6,21 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            float floatValue = 5.5f;
-            int int1;
-            
-            void Toint(float _parameter1)
+            int a = 5;
+            Console.WriteLine(a);
+            void A()
             {
-                int1 = (int)_parameter1;
+                int a = 7;
+                Console.WriteLine(a);
             }
 
-            Toint(floatValue);
-            Console.WriteLine(int1);
+            void B()
+            {
+                int b = 9;
+                Console.WriteLine(b);
+            }
+            A();
+            B();
         }
     }
 }
