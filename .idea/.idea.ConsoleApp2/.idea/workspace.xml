@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cad4eea-f499-4a11-b9f8-5abb7e99521b" name="Changes" comment="ConsoleApp2">
+    <list default="true" id="0cad4eea-f499-4a11-b9f8-5abb7e99521b" name="Changes" comment="반복문!">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Program.cs" afterDir="false" />
     </list>
@@ -17,6 +17,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -38,6 +41,12 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://E:/Coding/C Sharp/ConsoleApp2/ConsoleApp2/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -145,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716298177981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="반복문!">
+      <option name="closed" value="true" />
+      <created>1716300622019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716300622019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +175,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -171,7 +200,9 @@
     <MESSAGE value="함수!" />
     <MESSAGE value="지정자" />
     <MESSAGE value="ConsoleApp2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConsoleApp2" />
+    <MESSAGE value="배열" />
+    <MESSAGE value="반복문!" />
+    <option name="LAST_COMMIT_MESSAGE" value="반복문!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

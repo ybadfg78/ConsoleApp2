@@ -10,51 +10,18 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 10;
+            int[][] numbers = new int[3][];
+            numbers[0] = new int[4]{1, 2, 3, 4};
+            numbers[1] = new int[3]{5, 6, 7};
+            numbers[2] = new int[2]{8, 9};
             
-            //if(true)
-            if(b>a)
+            
+            for (int i = 0; i < numbers.Length; i++)
             {
-                a++;
-                Console.WriteLine("a의 값은?" + a);
-            }
-
-            //if(false)
-            if (b < a)
-            {
-                a--;
-                Console.WriteLine("a의 값은?" + a);
-            }
-
-            if (b < a)
-            {
-                b--;
-                Console.WriteLine("b의 값은?" + b);
-            }
-            else
-            {
-                b = b - 2;
-                Console.WriteLine("b의 값은?" + b);
-            }
-
-            Console.WriteLine("=====================");
-            int money = 8000;
-            if(money < 5000)
-            {
-                Console.WriteLine("money가 5000미만일 때 동작");
-            }
-            else if(money <7000)
-            {
-                Console.WriteLine("money가 5000이상 7000미만일 때 동작");
-            }
-            else if (money < 9000)
-            {
-                Console.WriteLine("money가 7000이상 9000미만일 때 동작");
-            }
-            else
-            {
-                Console.WriteLine("money가 9000이상일 때 동작.");
+                for (int k = 0; k < numbers[i].Length; k++)
+                {
+                    Console.WriteLine(i + ", " + k + "번째 요소:" + numbers[i][k]);
+                }
             }
 
         }
