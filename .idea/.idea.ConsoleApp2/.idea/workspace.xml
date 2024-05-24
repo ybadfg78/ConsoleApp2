@@ -7,8 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cad4eea-f499-4a11-b9f8-5abb7e99521b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConsoleApp2/Class1.cs" afterDir="false" />
+    <list default="true" id="0cad4eea-f499-4a11-b9f8-5abb7e99521b" name="Changes" comment="함수">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/Program.cs" afterDir="false" />
     </list>
@@ -121,7 +120,7 @@
       <workItem from="1716215733352" duration="885000" />
       <workItem from="1716216760260" duration="1038000" />
       <workItem from="1716298161384" duration="718000" />
-      <workItem from="1716562847736" duration="317000" />
+      <workItem from="1716562847736" duration="1361000" />
     </task>
     <task id="LOCAL-00001" summary="Rider 사용">
       <option name="closed" value="true" />
@@ -179,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716302955983</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="함수">
+      <option name="closed" value="true" />
+      <created>1716563282456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716563282456</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +228,8 @@
     <MESSAGE value="반복문!" />
     <MESSAGE value="반복문(전에 올린 반복문!)은 조건문" />
     <MESSAGE value="반복문(전에 올린 반복문!은 조건문)" />
-    <option name="LAST_COMMIT_MESSAGE" value="반복문(전에 올린 반복문!은 조건문)" />
+    <MESSAGE value="함수" />
+    <option name="LAST_COMMIT_MESSAGE" value="함수" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

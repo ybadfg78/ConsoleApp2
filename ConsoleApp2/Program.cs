@@ -12,11 +12,25 @@ namespace ConsoleApp2
         {
             int a = 5;
             int b = 6;
-            Class1 class1 = new Class1();
-            int c = class1.addNumber(a, b);
-            class1.soundFunction();
-            
-            Console.WriteLine(c);
+            Prog2 prog2 = new Prog2();
+            Console.WriteLine(prog2.a);
+            Console.WriteLine(prog2.b);
+        }
+    }
+
+    class Prog2
+    {
+        public string a = "a";
+        public int b = 2;
+
+        private static void newFunction()
+        {
+            Console.WriteLine("NEW");
+        }
+
+        static void prog3(string[] args)
+        {
+            newFunction();
         }
     }
 }
